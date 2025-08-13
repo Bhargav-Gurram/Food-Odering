@@ -1,0 +1,16 @@
+body{
+    background-image: url(bg3.jpeg);
+}
+form{
+    margin-left: 600px;
+    margin-top: 60px;
+}
+input{
+    border: none;
+    background-color: none;
+    outline: none;
+    border-bottom-style: solid;
+    border-radius: 0%;
+    border-bottom-width: 5px;
+    
+}
